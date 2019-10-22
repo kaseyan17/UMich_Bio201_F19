@@ -1,6 +1,6 @@
 ---
 title: "Lab3_answers"
-author: "Kasey Neff"
+author: "Kristi MacCready"
 date: "9/23/2019"
 output: html_document
 ---
